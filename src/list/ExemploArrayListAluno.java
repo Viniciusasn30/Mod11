@@ -54,14 +54,6 @@ public class ExemploArrayListAluno {
 
     }
 
-    public static void operecaoLouca() {
-        Scanner s = new Scanner(System.in);
-        System.out.println("Digite um numero");
-        int mult = s.nextInt();
-        int i;
-        for (i = 0; i <= 10; i++) {
-            System.out.println(mult + "X" + i + "=" + mult * i);
-        }
     }
 
 
